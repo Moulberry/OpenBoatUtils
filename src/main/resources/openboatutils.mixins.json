@@ -4,7 +4,8 @@
   "package": "dev.o7moon.openboatutils.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ServerPlayNetworkHandlerMixin"
+    "ServerPlayNetworkHandlerMixin",
+    "ServerPlayNetworkHandlerMixin2"
   ],
   "client": [
     "BoatMixin",
